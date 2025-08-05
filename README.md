@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Dev APEX Oracle, C/C++, Lua, JavaScript, CSS, HTML e Python.
+Experiencia em estruturação de dados, Data Warehouse, BI & Analytics, criação e uso de APIs e Fluxogramas n8n/Twillio/Outros.
+Game Dev nas horas vagas
